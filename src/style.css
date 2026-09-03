@@ -1,0 +1,28 @@
+:root {
+  --ink: #0d0d0d;
+  --sub: #6b6f76;
+  --line: #e9e9ea;
+  --card: #ffffff;
+  --card-soft: #fbfbfa;
+  --accent-green: #c9e6a8;
+  --accent-yellow: #f3ee9a;
+  --pos: #4c9a2a;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: #ffffff;
+  color: var(--ink);
+  overflow-x: hidden;
+}
