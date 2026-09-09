@@ -27,7 +27,7 @@ import SmardoveResults from './components/SmardoveResults.vue'
 
 import SmardoveSpecialists from './components/SmardoveSpecialists.vue'
 import HowItWorks from './components/HowItWorks.vue'
-import SmardoveHowItWorks from '../../../Downloads/SmardoveHowItWorks.vue'
+// import SmardoveHowItWorks from '../../../Downloads/SmardoveHowItWorks.vue'
 import SmardovStroties from './components/SmardovStroties.vue'
 
 </script>
